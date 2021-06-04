@@ -1,0 +1,33 @@
+{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+section{ 
+    background-color: #dcb98a;
+    width: 100%;
+    height: 200px;
+    TEXT-ALIGN: CENTER;
+    padding: 40px 4%;
+    font-family: roboto;
+    color: rgb(20, 20, 20);
+
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+h1{
+    margin-bottom: 40px;
+}
+
+section:nth-of-type(1){
+    background-image:url("https://docs.google.com/uc?id=1OHcd5nblXeD2iicmrh4P9uCO566YVItc");
+}
+section:nth-of-type(3){
+    background-image:url("https://docs.google.com/uc?id=1_VqeFrqMkcTsCXh6xfh2lwH0sJfMg2Bd");
+}
+section:nth-of-type(5){
+    background-image:url("https://docs.google.com/uc?id=17w8-0hH61WF9N0yBqLmEw1pNInMUajcR");
+}
